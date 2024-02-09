@@ -1,0 +1,1228 @@
+Scraping data for category: Best Books 2023
+-------------------------------------------
+Scraping data for category: Best Fiction
+Book Name: Yellowface
+Author Name: R.F. Kuang
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671336608l/62047984.jpg
+
+Book Name: Hello Beautiful
+Author Name: Ann Napolitano
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687803098l/61771675._SY475_.jpg
+
+Book Name: The Wishing Game
+Author Name: Meg Shaffer
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684817680l/62926992.jpg
+
+Book Name: Tom Lake
+Author Name: Ann Patchett
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691084837l/63241104._SY475_.jpg
+
+Book Name: The Five-Star Weekend
+Author Name: Elin Hilderbrand
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680591253l/62873996.jpg
+
+Book Name: Someone Else's Shoes
+Author Name: Jojo Moyes
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1666822989l/62971668.jpg
+
+Book Name: The Invisible Hour
+Author Name: Alice Hoffman
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686761095l/62919793.jpg
+
+Book Name: Maame
+Author Name: Jessica George
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1666031380l/60784605._SY475_.jpg
+
+Book Name: The Collected Regrets of Clover
+Author Name: Mikki Brammer
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663608724l/61214136.jpg
+
+Book Name: Pineapple Street
+Author Name: Jenny   Jackson
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659404866l/61246258.jpg
+
+Book Name: Big Swiss
+Author Name: Jen Beagin
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1653958990l/60701439.jpg
+
+Book Name: Shark Heart
+Author Name: Emily Habeck
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686092164l/62919375._SY475_.jpg
+
+Book Name: Evil Eye
+Author Name: Etaf Rum
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660158235l/59381516.jpg
+
+Book Name: The Celebrants
+Author Name: Steven  Rowley
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685352566l/62049729.jpg
+
+Book Name: Birnam Wood
+Author Name: Eleanor Catton
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1653578326l/60784757.jpg
+
+Book Name: The Connellys of County Down
+Author Name: Tracey Lange
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665471122l/61815336.jpg
+
+Book Name: The Bee Sting
+Author Name: Paul Murray
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674502938l/62039166.jpg
+
+Book Name: Wellness
+Author Name: Nathan  Hill
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695742140l/65650229._SY475_.jpg
+
+Book Name: Blackouts
+Author Name: Justin Torres
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677161651l/65215321.jpg
+
+Book Name: Family Meal
+Author Name: Bryan Washington
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679494794l/123414019.jpg
+
+-------------------------------------------
+Scraping data for category: Best Historical Fiction
+Book Name: Weyward
+Author Name: Emilia Hart
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677756582l/60654349._SY475_.jpg
+
+Book Name: The Covenant of Water
+Author Name: Abraham   Verghese
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687600746l/180357146._SY475_.jpg
+
+Book Name: Lady Tan's Circle of Women
+Author Name: Lisa See
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683735261l/62919732.jpg
+
+Book Name: The Heaven & Earth Grocery Store
+Author Name: James   McBride
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685350945l/65678550.jpg
+
+Book Name: The Keeper of Hidden Books
+Author Name: Madeline  Martin
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673627406l/62054146.jpg
+
+Book Name: The Echo of Old Books
+Author Name: Barbara  Davis
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671274907l/62060274.jpg
+
+Book Name: The House of Eve
+Author Name: Sadeqa Johnson
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675909166l/61273858._SY475_.jpg
+
+Book Name: The Wind Knows My Name
+Author Name: Isabel Allende
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684816057l/62583516.jpg
+
+Book Name: Did You Hear About Kitty Karr?
+Author Name: Crystal Smith Paul
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683223412l/61796683._SY475_.jpg
+
+Book Name: Looking for Jane
+Author Name: Heather     Marshall
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673499607l/61273371.jpg
+
+Book Name: Go as a River
+Author Name: Shelley Read
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1670147458l/63922274.jpg
+
+Book Name: The Paris Daughter
+Author Name: Kristin Harmel
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683735305l/62327255.jpg
+
+Book Name: The Secret Book of Flora Lea
+Author Name: Patti Callahan Henry
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680730634l/61964751.jpg
+
+Book Name: Let Us Descend
+Author Name: Jesmyn Ward
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698173892l/87556695.jpg
+
+Book Name: Hang the Moon
+Author Name: Jeannette Walls
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677786609l/61272702.jpg
+
+Book Name: Beyond That, the Sea
+Author Name: Laura Spence-Ash
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668472304l/60784759.jpg
+
+Book Name: River Sing Me Home
+Author Name: Eleanor Shearer
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675174045l/61111298._SY475_.jpg
+
+Book Name: Banyan Moon
+Author Name: Thao Thai
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687448161l/62800971.jpg
+
+Book Name: The Vaster Wilds
+Author Name: Lauren Groff
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680169653l/62952130.jpg
+
+Book Name: North Woods
+Author Name: Daniel       Mason
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684816182l/71872930.jpg
+
+-------------------------------------------
+Scraping data for category: Best Mystery & Thriller
+Book Name: The Housemaid's Secret
+Author Name: Freida McFadden
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664729357l/62848145._SY475_.jpg
+
+Book Name: None of This Is True
+Author Name: Lisa Jewell
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686092508l/62334530._SY475_.jpg
+
+Book Name: The Only One Left
+Author Name: Riley Sager
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668181003l/62703226.jpg
+
+Book Name: The Last Devil to Die
+Author Name: Richard Osman
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680740298l/62226126._SY475_.jpg
+
+Book Name: Vera Wong's Unsolicited Advice for Murderers
+Author Name: Jesse Q. Sutanto
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677871383l/61327512._SY475_.jpg
+
+Book Name: Bright Young Women
+Author Name: Jessica Knoll
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676221840l/101124639.jpg
+
+Book Name: All the Dangerous Things
+Author Name: Stacy Willingham
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652631076l/60784636.jpg
+
+Book Name: Homecoming
+Author Name: Kate Morton
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661354811l/61683285.jpg
+
+Book Name: I Have Some Questions for You
+Author Name: Rebecca Makkai
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658970269l/61053829.jpg
+
+Book Name: All the Sinners Bleed
+Author Name: S.A. Cosby
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663544598l/61884832.jpg
+
+Book Name: The River We Remember
+Author Name: William Kent Krueger
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1688068221l/101160844.jpg
+
+Book Name: What Lies in the Woods
+Author Name: Kate Alice Marshall
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652628677l/60784373.jpg
+
+Book Name: The Villa
+Author Name: Rachel Hawkins
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1651426717l/60784641.jpg
+
+Book Name: After That Night
+Author Name: Karin Slaughter
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681107221l/63833664.jpg
+
+Book Name: The Coworker
+Author Name: Freida McFadden
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685248649l/123423832.jpg
+
+Book Name: Happiness Falls
+Author Name: Angie  Kim
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693315671l/75495002._SY475_.jpg
+
+Book Name: Good Bad Girl
+Author Name: Alice Feeney
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679068112l/83668030.jpg
+
+Book Name: Don't Let Her Stay
+Author Name: Nicola Sanders
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674147285l/80830635._SY475_.jpg
+
+Book Name: The Leftover Woman
+Author Name: Jean Kwok
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679352643l/78296909.jpg
+
+Book Name: The Maid's Diary
+Author Name: Loreth Anne White
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647551429l/60588456._SY475_.jpg
+
+-------------------------------------------
+Scraping data for category: Best Romance
+Book Name: Happy Place
+Author Name: Emily Henry
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660145160l/61718053.jpg
+
+Book Name: Love, Theoretically
+Author Name: Ali Hazelwood
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681476644l/61326735._SY475_.jpg
+
+Book Name: Yours Truly
+Author Name: Abby Jimenez
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660857282l/61918816.jpg
+
+Book Name: Things We Hide from the Light
+Author Name: Lucy Score
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673217326l/62022434._SY475_.jpg
+
+Book Name: Romantic Comedy
+Author Name: Curtis Sittenfeld
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679496983l/62628727._SY475_.jpg
+
+Book Name: Final Offer
+Author Name: Lauren Asher
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675342454l/61681786._SY475_.jpg
+
+Book Name: King of Pride
+Author Name: Ana Huang
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680192054l/62994279._SY475_.jpg
+
+Book Name: The Right Move
+Author Name: Liz Tomforde
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674590603l/84943172._SY475_.jpg
+
+Book Name: The Seven Year Slip
+Author Name: Ashley Poston
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685350807l/62926938.jpg
+
+Book Name: Wildfire
+Author Name: Hannah Grace
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1688314784l/101145836._SY475_.jpg
+
+Book Name: Meet Me at the Lake
+Author Name: Carley Fortune
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664246880l/61797464.jpg
+
+Book Name: Pucking Around
+Author Name: Emily Rath
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678142180l/123194693._SY475_.jpg
+
+Book Name: The True Love Experiment
+Author Name: Christina Lauren
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677786623l/62361081.jpg
+
+Book Name: Practice Makes Perfect
+Author Name: Sarah       Adams
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659979546l/61897968.jpg
+
+Book Name: Powerless
+Author Name: Elsie Silver
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673028197l/63031640._SY475_.jpg
+
+Book Name: In the Likely Event
+Author Name: Rebecca Yarros
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683338045l/127152907._SY475_.jpg
+
+Book Name: Hello Stranger
+Author Name: Katherine Center
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667138448l/61884987.jpg
+
+Book Name: You, Again
+Author Name: Kate Goldbeck
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684512527l/75665887.jpg
+
+Book Name: A Long Time Coming
+Author Name: Meghan Quinn
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1672801457l/62626163._SY475_.jpg
+
+Book Name: The Long Game
+Author Name: Elena  Armas
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687105546l/101144869.jpg
+
+-------------------------------------------
+Scraping data for category: Best Romantasy
+Book Name: Fourth Wing
+Author Name: Rebecca Yarros
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701980900l/61431922._SY475_.jpg
+
+Book Name: Assistant to the Villain
+Author Name: Hannah Nicole Maehrer
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1702057336l/123257687._SY475_.jpg
+
+Book Name: The Ashes and the Star-Cursed King
+Author Name: Carissa Broadbent
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676294168l/62335396._SX318_.jpg
+
+Book Name: A Soul of Ash and Blood
+Author Name: Jennifer L. Armentrout
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677612497l/63847274._SY475_.jpg
+
+Book Name: Sorrow and Starlight
+Author Name: Caroline Peckham
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664442356l/59808792._SY475_.jpg
+
+Book Name: Throne of the Fallen
+Author Name: Kerri Maniscalco
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673510962l/73071451._SY475_.jpg
+
+Book Name: The Hurricane Wars
+Author Name: Thea Guanzon
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681316893l/75668288.jpg
+
+Book Name: The Hanging City
+Author Name: Charlie N. Holmberg
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674165466l/63127235._SY475_.jpg
+
+Book Name: A Fire in the Flesh
+Author Name: Jennifer L. Armentrout
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681507578l/61150440._SY475_.jpg
+
+Book Name: The Jasad Heir
+Author Name: Sara  Hashem
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671465519l/60581370.jpg
+
+Book Name: A Game of Gods
+Author Name: Scarlett St.  Clair
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610057817l/56587784._SX318_.jpg
+
+Book Name: The Foxglove King
+Author Name: Hannah F. Whitten
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654300847l/59397314._SX318_.jpg
+
+Book Name: The Coven
+Author Name: Harper L. Woods
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678470633l/75396525._SY475_.jpg
+
+Book Name: Fall of Ruin and Wrath
+Author Name: Jennifer L. Armentrout
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677160116l/65214365.jpg
+
+Book Name: Bewitched
+Author Name: Laura Thalassa
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1656620412l/60225993._SY475_.jpg
+
+Book Name: Slaying the Vampire Conqueror
+Author Name: Carissa Broadbent
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679927142l/123368729._SY475_.jpg
+
+Book Name: Rule of the Aurora King
+Author Name: Nisha J. Tuli
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1690915587l/191754348._SY475_.jpg
+
+Book Name: A Queen of Thieves & Chaos
+Author Name: K.A. Tucker
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678712435l/62004837._SY475_.jpg
+
+Book Name: A Court This Cruel & Lovely
+Author Name: Stacia Stark
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677462724l/122779502._SX318_.jpg
+
+Book Name: A Dawn of Onyx
+Author Name: Kate  Golden
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691300029l/195775182._SY475_.jpg
+
+-------------------------------------------
+Scraping data for category: Best Fantasy
+Book Name: Hell Bent
+Author Name: Leigh Bardugo
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648744814l/60652997.jpg
+
+Book Name: Tress of the Emerald Sea
+Author Name: Brandon Sanderson
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675297784l/63068384.jpg
+
+Book Name: A Day of Fallen Night
+Author Name: Samantha    Shannon
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675653942l/60766189._SY475_.jpg
+
+Book Name: Emily Wilde's Encyclopaedia of Faeries
+Author Name: Heather Fawcett
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1651622856l/60657589.jpg
+
+Book Name: Bookshops & Bonedust
+Author Name: Travis  Baldree
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678122626l/65213543.jpg
+
+Book Name: The Fragile Threads of Power
+Author Name: V.E. Schwab
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678296412l/111673828.jpg
+
+Book Name: Sword Catcher
+Author Name: Cassandra Clare
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674841074l/36679274.jpg
+
+Book Name: The Adventures of Amina al-Sirafi
+Author Name: Shannon Chakraborty
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663869260l/61294937.jpg
+
+Book Name: Starling House
+Author Name: Alix E. Harrow
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1682447293l/65213595.jpg
+
+Book Name: The Unmaking of June Farrow
+Author Name: Adrienne Young
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678126802l/66087062.jpg
+
+Book Name: Stone Blind
+Author Name: Natalie Haynes
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664995844l/61102615.jpg
+
+Book Name: The Book That Wouldn’t Burn
+Author Name: Mark  Lawrence
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673645786l/61612864.jpg
+
+Book Name: Ink Blood Sister Scribe
+Author Name: Emma Törzs
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685457125l/62854842._SY475_.jpg
+
+Book Name: Clytemnestra
+Author Name: Costanza Casati
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1656358463l/61361681._SX318_.jpg
+
+Book Name: The Will of the Many
+Author Name: James  Islington
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684547382l/62919748.jpg
+
+Book Name: Atalanta
+Author Name: Jennifer Saint
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675082381l/61884838.jpg
+
+Book Name: The Last Tale of the Flower Bride
+Author Name: Roshani Chokshi
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675641961l/61150759.jpg
+
+Book Name: Victory City
+Author Name: Salman Rushdie
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1670259879l/61111246.jpg
+
+Book Name: Witch King
+Author Name: Martha Wells
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663769801l/61885085.jpg
+
+Book Name: VenCo
+Author Name: Cherie Dimaline
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664815099l/60877589.jpg
+
+-------------------------------------------
+Scraping data for category: Best Science Fiction
+Book Name: In the Lives of Puppets
+Author Name: T.J. Klune
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699617963l/60784549._SY475_.jpg
+
+Book Name: Light Bringer
+Author Name: Pierce Brown
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667655583l/29227774._SY475_.jpg
+
+Book Name: Starter Villain
+Author Name: John Scalzi
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683564155l/61885029.jpg
+
+Book Name: The Marriage Act
+Author Name: John Marrs
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671842825l/62967873.jpg
+
+Book Name: System Collapse
+Author Name: Martha Wells
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674575978l/65211701.jpg
+
+Book Name: Chain-Gang All-Stars
+Author Name: Nana Kwame Adjei-Brenyah
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1682956296l/61190770.jpg
+
+Book Name: The Light Pirate
+Author Name: Lily Brooks-Dalton
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663783151l/60468332.jpg
+
+Book Name: The Ferryman
+Author Name: Justin Cronin
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659983263l/61282437.jpg
+
+Book Name: The Future
+Author Name: Naomi Alderman
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678895127l/123163147.jpg
+
+Book Name: Children of Memory
+Author Name: Adrian Tchaikovsky
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655929496l/61030535.jpg
+
+Book Name: Land of Milk and Honey
+Author Name: C Pam Zhang
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683827919l/101673225.jpg
+
+Book Name: I Keep My Exoskeletons to Myself
+Author Name: Marisa Crane
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648063139l/60679392.jpg
+
+Book Name: The Deep Sky
+Author Name: Yume Kitasei
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675082851l/61884842.jpg
+
+Book Name: Bridge
+Author Name: Lauren Beukes
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1670621774l/64000639.jpg
+
+Book Name: Some Desperate Glory
+Author Name: Emily Tesh
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668621616l/58388343._SY475_.jpg
+
+Book Name: Translation State
+Author Name: Ann Leckie
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673303646l/62873999.jpg
+
+Book Name: Ascension
+Author Name: Nicholas Binge
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675642495l/61813107.jpg
+
+Book Name: The Deluge
+Author Name: Stephen Markley
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671054157l/60806778.jpg
+
+Book Name: The Jinn-Bot of Shantiport
+Author Name: Samit Basu
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678974245l/65211707.jpg
+
+Book Name: The Great Transition
+Author Name: Nick Fuller Googins
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686092659l/62919387._SY475_.jpg
+
+-------------------------------------------
+Scraping data for category: Best Horror
+Book Name: Holly
+Author Name: Stephen King
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674418461l/65916344.jpg
+
+Book Name: How to Sell a Haunted House
+Author Name: Grady Hendrix
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650818993l/59414094.jpg
+
+Book Name: A House with Good Bones
+Author Name: T. Kingfisher
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664972416l/60784409.jpg
+
+Book Name: Vampires of El Norte
+Author Name: Isabel Cañas
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1669783077l/63892214.jpg
+
+Book Name: Rouge
+Author Name: Mona Awad
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676499276l/101160689.jpg
+
+Book Name: My Darling Girl
+Author Name: Jennifer  McMahon
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1688658775l/101145269._SY475_.jpg
+
+Book Name: The September House
+Author Name: Carissa Orlando
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686576214l/64623481.jpg
+
+Book Name: Silver Nitrate
+Author Name: Silvia Moreno-Garcia
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1670014934l/63249718.jpg
+
+Book Name: Our Share of Night
+Author Name: Mariana Enríquez
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660429329l/61111034.jpg
+
+Book Name: Lone Women
+Author Name: Victor LaValle
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673265868l/60460704.jpg
+
+Book Name: Black Sheep
+Author Name: Rachel   Harrison
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680293749l/69704909.jpg
+
+Book Name: Mister Magic
+Author Name: Kiersten White
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668565101l/63331415.jpg
+
+Book Name: Don't Fear the Reaper
+Author Name: Stephen Graham Jones
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673499594l/59366246.jpg
+
+Book Name: The Reformatory
+Author Name: Tananarive Due
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686761184l/62919847.jpg
+
+Book Name: Natural Beauty
+Author Name: Ling Ling Huang
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659407685l/61420120.jpg
+
+Book Name: Sisters of the Lost Nation
+Author Name: Nick Medina
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675646126l/61686006.jpg
+
+Book Name: Monstrilio
+Author Name: Gerardo Sámano Córdova
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664985853l/62888191.jpg
+
+Book Name: Becoming the Boogeyman
+Author Name: Richard  Chizmar
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676324384l/101144676.jpg
+
+Book Name: Her Little Flowers
+Author Name: Shannon  Morgan
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667946255l/63259070.jpg
+
+Book Name: Dead Eleven
+Author Name: Jimmy Juliano
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668017771l/63077620.jpg
+
+-------------------------------------------
+Scraping data for category: Best Young Adult Fantasy & Science Fiction
+Book Name: Divine Rivals
+Author Name: Rebecca   Ross
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655928079l/60784546.jpg
+
+Book Name: A Curse for True Love
+Author Name: Stephanie Garber
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674501506l/62816044.jpg
+
+Book Name: The Stolen Heir
+Author Name: Holly Black
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654625328l/61198133.jpg
+
+Book Name: Chain of Thorns
+Author Name: Cassandra Clare
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1666441294l/17699859._SY475_.jpg
+
+Book Name: Powerless
+Author Name: Lauren  Roberts
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687711910l/153283393.jpg
+
+Book Name: What the River Knows
+Author Name: Isabel Ibañez
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674234543l/65213381.jpg
+
+Book Name: A Study in Drowning
+Author Name: Ava Reid
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675782203l/75302266.jpg
+
+Book Name: Foxglove
+Author Name: Adalyn  Grace
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1666104339l/63023639.jpg
+
+Book Name: These Infinite Threads
+Author Name: Tahereh Mafi
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1656264223l/61085769.jpg
+
+Book Name: Foul Heart Huntsman
+Author Name: Chloe Gong
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678293837l/101138075._SY475_.jpg
+
+Book Name: Song of Silver, Flame Like Night
+Author Name: Amélie Wen Zhao
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661410548l/58303740._SY475_.jpg
+
+Book Name: Threads That Bind
+Author Name: Kika Hatzopoulou
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663941697l/62695377.jpg
+
+Book Name: Delicious Monsters
+Author Name: Liselle Sambury
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675288895l/61273084.jpg
+
+Book Name: House of Roots and Ruin
+Author Name: Erin A. Craig
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668687160l/62649010.jpg
+
+Book Name: Spice Road
+Author Name: Maiya Ibrahim
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664245287l/61356465.jpg
+
+Book Name: Blood Debts
+Author Name: Terry J. Benton-Walker
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660390164l/60784432.jpg
+
+Book Name: Silver in the Bone
+Author Name: Alexandra Bracken
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664201158l/62031346.jpg
+
+Book Name: The Scarlet Veil
+Author Name: Shelby Mahurin
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1682578665l/60386342.jpg
+
+Book Name: Bring Me Your Midnight
+Author Name: Rachel  Griffin
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668621714l/62688758.jpg
+
+Book Name: House of Marionne
+Author Name: J. Elle
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676565627l/61745561.jpg
+
+-------------------------------------------
+Scraping data for category: Best Young Adult Fiction
+Book Name: Check & Mate
+Author Name: Ali Hazelwood
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678378842l/60683957.jpg
+
+Book Name: The Brothers Hawthorne
+Author Name: Jennifer Lynn Barnes
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664812464l/62804258.jpg
+
+Book Name: Five Survive
+Author Name: Holly  Jackson
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659677880l/60788826.jpg
+
+Book Name: One of Us Is Back
+Author Name: Karen M. McManus
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1670438734l/57932307._SY475_.jpg
+
+Book Name: Immortality
+Author Name: Dana Schwartz
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667592421l/60784644._SY475_.jpg
+
+Book Name: Highly Suspicious and Unfairly Cute
+Author Name: Talia Hibbert
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658632099l/57370115.jpg
+
+Book Name: Warrior Girl Unearthed
+Author Name: Angeline Boulley
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659757856l/61675933.jpg
+
+Book Name: Imogen, Obviously
+Author Name: Becky Albertalli
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665161544l/61896624.jpg
+
+Book Name: The Davenports
+Author Name: Krystal Marquis
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654791714l/58469344.jpg
+
+Book Name: Reign
+Author Name: Katharine McGee
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676578954l/61948564.jpg
+
+Book Name: We Deserve Monuments
+Author Name: Jas Hammonds
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1644414847l/58484187.jpg
+
+Book Name: Nine Liars
+Author Name: Maureen Johnson
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650735371l/60495147.jpg
+
+Book Name: Never Ever Getting Back Together
+Author Name: Sophie Gonzales
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643645196l/59808187.jpg
+
+Book Name: Pride and Prejudice and Pittsburgh
+Author Name: Rachael Lippincott
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686092574l/101141137._SY475_.jpg
+
+Book Name: What Happens After Midnight
+Author Name: K.L. Walther
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1666703072l/60197316.jpg
+
+Book Name: Together We Rot
+Author Name: Skyla Arndt
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671477934l/63933651.jpg
+
+Book Name: This Time It's Real
+Author Name: Ann Liang
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674642451l/60759266.jpg
+
+Book Name: Thieves' Gambit
+Author Name: Kayvion Lewis
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677505315l/112974911.jpg
+
+Book Name: Forget Me Not
+Author Name: Alyson Derrick
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678326157l/61273082.jpg
+
+Book Name: Suddenly a Murder
+Author Name: Lauren Muñoz
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696279096l/66087070._SY475_.jpg
+
+-------------------------------------------
+Scraping data for category: Best Debut Novel
+Book Name: Weyward
+Author Name: Emilia Hart
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677756582l/60654349._SY475_.jpg
+
+Book Name: Ink Blood Sister Scribe
+Author Name: Emma Törzs
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685457125l/62854842._SY475_.jpg
+
+Book Name: Pineapple Street
+Author Name: Jenny   Jackson
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659404866l/61246258.jpg
+
+Book Name: Maame
+Author Name: Jessica George
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675970524l/108491027._SY475_.jpg
+
+Book Name: The September House
+Author Name: Carissa Orlando
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686576214l/64623481.jpg
+
+Book Name: Looking for Jane
+Author Name: Heather     Marshall
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673499607l/61273371.jpg
+
+Book Name: Adelaide
+Author Name: Genevieve Wheeler
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671529625l/60784312.jpg
+
+Book Name: Did You Hear About Kitty Karr?
+Author Name: Crystal Smith Paul
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683223412l/61796683._SY475_.jpg
+
+Book Name: The Bandit Queens
+Author Name: Parini Shroff
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1653323706l/61065982._SY475_.jpg
+
+Book Name: Chain-Gang All-Stars
+Author Name: Nana Kwame Adjei-Brenyah
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1682956296l/61190770.jpg
+
+Book Name: The Collected Regrets of Clover
+Author Name: Mikki Brammer
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663608724l/61214136.jpg
+
+Book Name: Beyond That, the Sea
+Author Name: Laura Spence-Ash
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668472304l/60784759.jpg
+
+Book Name: Shark Heart
+Author Name: Emily Habeck
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686092164l/62919375._SY475_.jpg
+
+Book Name: In Memoriam
+Author Name: Alice Winn
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1670866445l/59948520._SX318_.jpg
+
+Book Name: River Sing Me Home
+Author Name: Eleanor Shearer
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675174045l/61111298._SY475_.jpg
+
+Book Name: Banyan Moon
+Author Name: Thao Thai
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687448161l/62800971.jpg
+
+Book Name: Monstrilio
+Author Name: Gerardo Sámano Córdova
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664985853l/62888191.jpg
+
+Book Name: I Keep My Exoskeletons to Myself
+Author Name: Marisa Crane
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648063139l/60679392.jpg
+
+Book Name: One Summer in Savannah
+Author Name: Terah Shelton Harris
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675091148l/72339682.jpg
+
+-------------------------------------------
+Scraping data for category: Best Nonfiction
+Book Name: Poverty,
+Author Name: America
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665696294l/61358638._SY475_.jpg
+
+Book Name: Butts
+Author Name: Heather Radke
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667415133l/59366123.jpg
+
+Book Name: The Art Thief
+Author Name: Michael Finkel
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701688707l/62873378._SX318_.jpg
+
+Book Name: 8 Rules of Love
+Author Name: Jay Shetty
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673299423l/61886251.jpg
+
+Book Name: On Our Best Behavior
+Author Name: Elise Loehnen
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684817671l/63876551.jpg
+
+Book Name: Doppelganger
+Author Name: Naomi Klein
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689105362l/138505710._SY475_.jpg
+
+Book Name: Outlive
+Author Name: Peter Attia
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700067079l/61153739._SX318_.jpg
+
+Book Name: The Creative Act
+Author Name: Rick Rubin
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663707011l/60965426.jpg
+
+Book Name: Trail of the Lost
+Author Name: Andrea Lankford
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701183131l/64000414._SY475_.jpg
+
+Book Name: How Far the Light Reaches
+Author Name: Sabrina Imbler
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665468908l/60769830.jpg
+
+Book Name: Opinions
+Author Name: Roxane Gay
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692819821l/123195171._SY475_.jpg
+
+Book Name: Eve
+Author Name: Cat Bohannon
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684815183l/75494215.jpg
+
+Book Name: Cobalt Red
+Author Name: Siddharth Kara
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1666032360l/60784614.jpg
+
+Book Name: Hidden Potential
+Author Name: Adam M. Grant
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689111352l/157095669._SY475_.jpg
+
+Book Name: Ultra-Processed People
+Author Name: Chris van Tulleken
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679715862l/62586003.jpg
+
+Book Name: Monsters
+Author Name: Claire Dederer
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673870643l/61685822.jpg
+
+Book Name: Punished for Dreaming
+Author Name: Bettina L. Love
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675084406l/65214406.jpg
+
+Book Name: Never Finished
+Author Name: David Goggins
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1666753060l/63102846._SY475_.jpg
+
+Book Name: The Good Life
+Author Name: Robert Waldinger
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671054230l/61273746.jpg
+
+Book Name: Build the Life You Want
+Author Name: Arthur C. Brooks
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692830209l/137978862._SX318_.jpg
+
+-------------------------------------------
+Scraping data for category: Best Memoir & Autobiography
+Book Name: The Woman in Me
+Author Name: Britney Spears
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689090540l/63133205._SY475_.jpg
+
+Book Name: Spare
+Author Name: Prince Harry
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673458354l/62296528._SY475_.jpg
+
+Book Name: Pageboy
+Author Name: Elliot Page
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1670915463l/61317637.jpg
+
+Book Name: You Could Make This Place Beautiful
+Author Name: Maggie  Smith
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678900098l/61273812.jpg
+
+Book Name: Counting the Cost
+Author Name: Jill Duggar
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686092283l/166175422._SY475_.jpg
+
+Book Name: All My Knotted-Up Life
+Author Name: Beth Moore
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658829975l/61357133.jpg
+
+Book Name: Paris
+Author Name: Paris Hilton
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677603541l/61812425._SY475_.jpg
+
+Book Name: Love, Pamela
+Author Name: Pamela Anderson
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664755254l/61812427.jpg
+
+Book Name: Hijab Butch Blues
+Author Name: Lamya H.
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1669666445l/61111274.jpg
+
+Book Name: The In-Between
+Author Name: Hadley Vlahos
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684817915l/63033521.jpg
+
+Book Name: Thicker than Water
+Author Name: Kerry Washington
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683573107l/88564046.jpg
+
+Book Name: The Many Lives of Mama Love
+Author Name: Lara Love Hardin
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681252640l/128624877._SY475_.jpg
+
+Book Name: The Witching Year
+Author Name: Diana Helmuth
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680713930l/125253126._SY475_.jpg
+
+Book Name: While You Were Out
+Author Name: Meg Kissinger
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673872767l/61885057.jpg
+
+Book Name: How to Say Babylon
+Author Name: Safiya Sinclair
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696364131l/62919742._SX318_.jpg
+
+Book Name: Tell Me Everything
+Author Name: Minka Kelly
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1690478701l/62971594._SY475_.jpg
+
+Book Name: Becoming Free Indeed
+Author Name: Jinger Duggar Vuolo
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1670269414l/62837289.jpg
+
+Book Name: A Man of Two Faces
+Author Name: Viet Thanh Nguyen
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680602071l/124948662._SY475_.jpg
+
+Book Name: They Called Us Exceptional
+Author Name: Prachi   Gupta
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684816016l/142601047.jpg
+
+Book Name: A Living Remedy
+Author Name: Nicole Chung
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675641094l/62050250.jpg
+
+-------------------------------------------
+Scraping data for category: Best History & Biography
+Book Name: The Wager
+Author Name: David Grann
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659407155l/61714633.jpg
+
+Book Name: The Six
+Author Name: Loren Grush
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686761136l/101160753.jpg
+
+Book Name: Killing the Witches
+Author Name: Bill O'Reilly
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675642559l/65214203.jpg
+
+Book Name: King
+Author Name: Jonathan Eig
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667552868l/62039291.jpg
+
+Book Name: Valiant Women
+Author Name: Lena Andrews
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675526626l/61858962.jpg
+
+Book Name: Black AF History
+Author Name: Michael Harriot
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623377719l/55959466._SY475_.jpg
+
+Book Name: A Fever in the Heartland
+Author Name: Timothy Egan
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659417830l/61423989.jpg
+
+Book Name: Elon Musk
+Author Name: Walter Isaacson
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692288251l/122765395._SY475_.jpg
+
+Book Name: Pathogenesis
+Author Name: Jonathan Kennedy
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1656310837l/61327450.jpg
+
+Book Name: Astor
+Author Name: Anderson Cooper
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684204469l/112975117.jpg
+
+Book Name: The Earth Transformed
+Author Name: Peter Frankopan
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677838656l/61965394._SX318_.jpg
+
+Book Name: The Book of Charlie
+Author Name: David von Drehle
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1682527920l/62918681.jpg
+
+Book Name: Star Crossed
+Author Name: Heather Dune Macadam
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657977372l/60098287.jpg
+
+Book Name: Master Slave Husband Wife
+Author Name: Ilyon Woo
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673499674l/61272711.jpg
+
+Book Name: When Crack Was King
+Author Name: Donovan X. Ramsey
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684815053l/63024187.jpg
+
+Book Name: The Nazi Conspiracy
+Author Name: Brad Meltzer
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649929399l/60784360.jpg
+
+Book Name: The Confidante
+Author Name: Christopher C. Gorham
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1653945253l/61192830.jpg
+
+Book Name: Rough Sleepers
+Author Name: Tracy Kidder
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662576445l/62328661._SY475_.jpg
+
+Book Name: There Will Be Fire
+Author Name: Rory Carroll
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658496872l/61420116.jpg
+
+Book Name: Going Infinite
+Author Name: Michael   Lewis
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684247487l/149105520.jpg
+
+-------------------------------------------
+Scraping data for category: Best Humor
+Book Name: Being Henry
+Author Name: Henry Winkler
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677855868l/65215014.jpg
+
+Book Name: Leslie F*cking Jones
+Author Name: Leslie     Jones
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680721617l/123027172.jpg
+
+Book Name: Sure, I'll Join Your Cult
+Author Name: Maria Bamford
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683135532l/112093865.jpg
+
+Book Name: Tough Titties
+Author Name: Laura Belgray
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1682978134l/62873978.jpg
+
+Book Name: Quietly Hostile
+Author Name: Samantha Irby
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663419469l/62052300.jpg
+
+Book Name: Strong Female Character
+Author Name: Fern  Brady
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1670358571l/59903149._SY475_.jpg
+
+Book Name: Unruly
+Author Name: David   Mitchell
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683348009l/150038752._SY475_.jpg
+
+Book Name: XOXO, Cody
+Author Name: Cody Rigsby
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684815945l/123226898.jpg
+
+Book Name: The World Record Book of Racist Stories
+Author Name: Amber Ruffin
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647264717l/60568490.jpg
+
+Book Name: Black Friend
+Author Name: Ziwe
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1682786321l/56969544.jpg
+
+Book Name: Congratulations, the Best is Over!
+Author Name: R. Eric Thomas
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684817432l/71872896.jpg
+
+Book Name: How to Stay Married
+Author Name: Harrison Scott Key
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684547314l/62919409.jpg
+
+Book Name: It Was an Ugly Couch Anyway
+Author Name: Elizabeth Passarella
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662442622l/61349388.jpg
+
+Book Name: Everybody's Favorite
+Author Name: Lillian Stone
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675644732l/63184330.jpg
+
+Book Name: Surely You Can't Be Serious
+Author Name: David Zucker
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687142454l/65214162.jpg
+
+Book Name: Misfit
+Author Name: Gary Gulman
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684820892l/65211790.jpg
+
+Book Name: Unreliable Narrator
+Author Name: Aparna Nancherla
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680838326l/125930612._SY475_.jpg
+
+Book Name: America the Beautiful?
+Author Name: Blythe Roberson
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646647646l/60563720.jpg
+
+Book Name: Alexandra Petri's US History
+Author Name: Alexandra Petri
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660366375l/61089466.jpg
+
+Book Name: Not Funny
+Author Name: Jena Friedman
+Image URL: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679504102l/61273783.jpg
+
+-------------------------------------------
